@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/DLTWZPm/3.jpg",
+      "title": "Understanding JavaScript Closures",
+      "author_img": "https://i.ibb.co.com/GPbGhp1/curious-scholar-literary-oasis-1275912-33494.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "has_tag": ["JavaScript", "Programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/1nWPvTN/2.jpg",
+      "title": "A Guide to React Hooks",
+      "author_img": "https://i.ibb.co.com/Gv94jt9/flirty-young-female-student-reading-book-table-1262-5042.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-10-05",
+      "reading_time": 7,
+      "has_tag": ["React", "Hooks", "Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/vvQP7Jg/1.jpg",
+      "title": "Mastering CSS Grid",
+      "author_img": "https://i.ibb.co.com/Vt5wKxQ/portrait-young-bearded-man-reading-book-114579-79011.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2024-10-10",
+      "reading_time": 6,
+      "has_tag": ["CSS", "Web Design"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/t2SVFjK/5.jpg",
+      "title": "Introduction to TypeScript",
+      "author_img": "https://i.ibb.co.com/bQ6bSGy/professional-businessman-holding-folder-1059430-104269.jpg",
+      "author": "Michael Brown",
+      "posted_date": "2024-10-12",
+      "reading_time": 8,
+      "has_tag": ["TypeScript", "Programming"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/C6Y4rQ4/4.jpg",
+      "title": "Building RESTful APIs with Node.js",
+      "author_img": "https://i.ibb.co.com/t4WjZGy/woman-making-notes-breakfast-23-2147799000.jpg",
+      "author": "Sarah Connor",
+      "posted_date": "2024-10-15",
+      "reading_time": 10,
+      "has_tag": ["Node.js", "APIs", "Backend"]
+    }
+  ]
+  
