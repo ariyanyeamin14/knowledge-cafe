@@ -2,7 +2,7 @@
     {
       "id": 1,
       "cover": "https://i.ibb.co.com/DLTWZPm/3.jpg",
-      "title": "Understanding JavaScript Closures",
+      "title": "A Comprehensive Guide to Understanding JavaScript Closures",
       "author_img": "https://i.ibb.co.com/GPbGhp1/curious-scholar-literary-oasis-1275912-33494.jpg",
       "author": "John Doe",
       "posted_date": "2024-10-01",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "cover": "https://i.ibb.co.com/1nWPvTN/2.jpg",
-      "title": "A Guide to React Hooks",
+      "title": "Everything You Need to Know About React Hooks for Modern Development",
       "author_img": "https://i.ibb.co.com/Gv94jt9/flirty-young-female-student-reading-book-table-1262-5042.jpg",
       "author": "Jane Smith",
       "posted_date": "2024-10-05",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "cover": "https://i.ibb.co.com/vvQP7Jg/1.jpg",
-      "title": "Mastering CSS Grid",
+      "title": "Mastering CSS Grid Layouts: A Designer's Guide to Building Responsive Webpages",
       "author_img": "https://i.ibb.co.com/Vt5wKxQ/portrait-young-bearded-man-reading-book-114579-79011.jpg",
       "author": "Alice Johnson",
       "posted_date": "2024-10-10",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "cover": "https://i.ibb.co.com/t2SVFjK/5.jpg",
-      "title": "Introduction to TypeScript",
+      "title": "An In-Depth Introduction to TypeScript: From Basics to Advanced Concepts",
       "author_img": "https://i.ibb.co.com/bQ6bSGy/professional-businessman-holding-folder-1059430-104269.jpg",
       "author": "Michael Brown",
       "posted_date": "2024-10-12",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "cover": "https://i.ibb.co.com/C6Y4rQ4/4.jpg",
-      "title": "Building RESTful APIs with Node.js",
+      "title": "Building RESTful APIs with Node.js: A Step-by-Step Guide for Backend Development",
       "author_img": "https://i.ibb.co.com/t4WjZGy/woman-making-notes-breakfast-23-2147799000.jpg",
       "author": "Sarah Connor",
       "posted_date": "2024-10-15",
